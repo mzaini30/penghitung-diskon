@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/zen/aplikasi-android/murajaah/tambahan/icon.png"
+   inkscape:export-xdpi="74.832954"
+   inkscape:export-ydpi="74.832954"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16403309"
+     inkscape:cx="-402.35784"
+     inkscape:cy="502.9473"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1330"
+     inkscape:window-height="743"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke-width:0.264583"
+       id="rect815"
+       width="339.42264"
+       height="339.42264"
+       x="-269.54272"
+       y="-14.452381"
+       inkscape:export-xdpi="74.832954"
+       inkscape:export-ydpi="74.832954"
+       inkscape:export-filename="/home/zen/aplikasi-android/penghitung-diskon/tambahan/icon.png" />
+    <path
+       fill="currentColor"
+       d="m -99.831326,95.100209 c -33.221604,0 -60.158814,26.937051 -60.158814,60.158651 0,33.2216 26.93721,60.15881 60.158814,60.15881 33.2216,0 60.15865,-26.93721 60.15865,-60.15881 0,-33.2216 -26.93705,-60.158651 -60.15865,-60.158651 z m 0,110.111881 c -27.581814,0 -49.953244,-22.37143 -49.953244,-49.95323 0,-27.58165 22.37143,-49.95323 49.953244,-49.95323 27.58164,0 49.95324,22.37158 49.95324,49.95323 0,27.5818 -22.3716,49.95323 -49.95324,49.95323 z m 6.40523,-53.06855 -3.41074,-0.79255 v -18.03431 c 5.1027,0.69835 8.25846,3.89423 8.79555,7.81525 0.0649,0.53757 0.52295,0.92736 1.06052,0.92736 h 6.02925 c 0.63177,0 1.12873,-0.55058 1.07352,-1.18234 -0.81854,-8.36598 -7.7079,-13.73731 -16.90622,-14.66385 v -4.39104 c 0,-0.59116 -0.48398,-1.07351 -1.07352,-1.07351 h -3.773404 c -0.59117,0 -1.07352,0.48397 -1.07352,1.07351 v 4.43131 c -9.50722,0.92736 -16.94649,6.17704 -16.94649,15.97968 0,9.07766 6.68715,13.45522 13.71018,15.1337 l 3.31687,0.84615 v 19.16224 c -5.93538,-0.79255 -9.26556,-3.9613 -9.95043,-8.2315 -0.0812,-0.50997 -0.53758,-0.88676 -1.06054,-0.88676 h -6.20383 c -0.63177,0 -1.12874,0.53757 -1.07352,1.16772 0.60416,7.38552 6.20384,14.18036 18.15498,15.05315 v 4.21644 c 0,0.59116 0.48398,1.07351 1.07352,1.07351 h 3.813514 c 0.59117,0 1.07352,-0.48397 1.07352,-1.08813 l -0.0325,-4.25672 c 10.51431,-0.92735 18.03414,-6.55301 18.03414,-16.65108 -0.0135,-9.31915 -5.93538,-13.482 -14.63688,-15.6305 z m -9.211814,-2.17546 c -0.75195,-0.21438 -1.38372,-0.41576 -2.01419,-0.67075 -4.53882,-1.63821 -6.64705,-4.28352 -6.64705,-7.69441 0,-4.87436 3.69285,-7.65414 8.66124,-8.28527 z m 5.801074,27.4475 v -17.95359 c 0.41577,0.11368 0.79255,0.21438 1.18233,0.29558 6.35163,1.93363 8.48665,4.61922 8.48665,8.74179 0,5.2505 -3.94782,8.4061 -9.66833,8.91638 z"
+       id="path824"
+       style="stroke-width:0.134283"
+       inkscape:export-filename="/home/zen/aplikasi-android/penghitung-diskon/tambahan/icon.png"
+       inkscape:export-xdpi="74.832954"
+       inkscape:export-ydpi="74.832954" />
+  </g>
+</svg>
